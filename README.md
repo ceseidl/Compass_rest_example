@@ -1,1 +1,1 @@
-# Compass_rest_example
+# Compass rest example
